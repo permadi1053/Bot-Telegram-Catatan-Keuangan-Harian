@@ -36,5 +36,6 @@ untuk melihat seluruh data di spreedsheet gunakan perintah /view
 5. melihat rekapitulasi keuangan
 untuk melihat total pemasukan, pengeluaran, dan saving gunakan perintah /rekap
 ![Script Properties](https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/5.rekap.jpeg_
-  
-#demikian cara instalasi dan penggunaan Bot cataata keuangan harian, semoga bermanfaat
+ 
+## 🚨 Note 🚨
+##demikian cara instalasi dan penggunaan Bot cataata keuangan harian, semoga bermanfaat
