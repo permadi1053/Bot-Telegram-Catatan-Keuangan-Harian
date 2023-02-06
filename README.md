@@ -3,10 +3,10 @@
 - Cari BotFather
 - klik /newbot untuk membuat bot baru, selanjutnya isi nama bot. Setelah selesai akan didaatkan API bot telegram
 
-# 2. Buat File Spreedsheet
-- Buat file spredsheet di akun google, silahkan buat nama sesuai keinginan kalian
+# 2. Buat File Spreadsheet
+- Buat file spreadsheet di akun google, silahkan buat nama sesuai keinginan kalian
 - untuk contoh silahkan ambil dari https://github.com/permadi1053/Bot-Telegram-googel-script-/tree/main/Data%20Keuangan
-- Ambil dan simpan SSID spreedsheet, contoh: https://docs.google.com/spreadsheets/d/SSID/edit#gid=0. ambil bagian SSID
+- Ambil dan simpan SSID spreadsheet, contoh: https://docs.google.com/spreadsheets/d/SSID/edit#gid=0. ambil bagian SSID
   
 # 3. Buat Script di Google Apps Script
 - Copy dan Paste script di dalam script editor
@@ -24,13 +24,13 @@ setelah bot di deploy, masuk room chat bot telegram (bisa dengan hp atau web) la
 untuk melihat perintah yang untuk menjalankan bot ketik /help
 ![Script Properties](https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/2.help.jpeg)
 
-3. input dari ke spreedsheet
+3. input dari ke spreadsheet
 untuk input data pemasukan atau pengeluaran ketik /save,deskripsi,nominal pemasukan, nominal pengeluarain
 contoh : /save,beli bakso,0,15000
 ![Script Properties](https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/3.save.jpeg)
 
 4. melihat data yang telah di input
-untuk melihat seluruh data di spreedsheet gunakan perintah /view
+untuk melihat seluruh data di spreadsheet gunakan perintah /view
 ![Script Properties](https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/4.view.jpeg)
   
 5. melihat rekapitulasi keuangan
