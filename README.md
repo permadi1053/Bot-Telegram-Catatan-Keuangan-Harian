@@ -18,23 +18,23 @@
 # 4. Contoh Penggunaan
 1. memulai Bot
 setelah bot di deploy, masuk room chat bot telegram (bisa dengan hp atau web) lalu klik "start bot" atau ketik /start
-![Script Properties]https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/1.start.jpeg
+![Script Properties](https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/1.start.jpeg)
 
 2. melihat menu bantuan
 untuk melihat perintah yang untuk menjalankan bot ketik /help
-![Script Properties]https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/2.help.jpeg
+![Script Properties](https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/2.help.jpeg)
 
 3. input dari ke spreedsheet
 untuk input data pemasukan atau pengeluaran ketik /save,deskripsi,nominal pemasukan, nominal pengeluarain
 contoh : /save,beli bakso,0,15000
-![Script Properties]https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/3.save.jpeg
+![Script Properties](https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/3.save.jpeg)
 
 4. melihat data yang telah di input
 untuk melihat seluruh data di spreedsheet gunakan perintah /view
-![Script Properties]https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/4.view.jpeg
+![Script Properties](https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/4.view.jpeg)
   
 5. melihat rekapitulasi keuangan
 untuk melihat total pemasukan, pengeluaran, dan saving gunakan perintah /rekap
-![Script Properties]https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/5.rekap.jpeg
+![Script Properties](https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/5.rekap.jpeg_
   
 #demikian cara instalasi dan penggunaan Bot cataata keuangan harian, semoga bermanfaat
