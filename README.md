@@ -6,7 +6,7 @@
 # 2. Buat File Spreedsheet
 - Buat file spredsheet di akun google, silahkan buat nama sesuai keinginan kalian
 - untuk contoh silahkan ambil dari https://github.com/permadi1053/Bot-Telegram-googel-script-/tree/main/Data%20Keuangan
-- Ambil dan simpan SSID spreedsheet, contoh: https://docs.google.com/spreadsheets/d/<SSID>/edit#gid=0. ambil bagian <SSID>
+- Ambil dan simpan SSID spreedsheet, contoh: https://docs.google.com/spreadsheets/d/SSID/edit#gid=0. ambil bagian SSID
   
 # 3. Buat Script di Google Apps Script
 - Copy dan Paste script di dalam script editor
