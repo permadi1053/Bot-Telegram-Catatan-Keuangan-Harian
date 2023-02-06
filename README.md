@@ -38,4 +38,4 @@ untuk melihat total pemasukan, pengeluaran, dan saving gunakan perintah /rekap
 ![Script Properties](https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/5.rekap.jpeg_
  
 ## 🚨 Note 🚨
-## Demikian cara instalasi dan penggunaan Bot cataata keuangan harian, semoga bermanfaat
+## Demikian cara instalasi dan penggunaan Bot cataatan keuangan harian, semoga bermanfaat
