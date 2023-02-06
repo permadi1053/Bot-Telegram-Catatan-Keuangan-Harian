@@ -35,7 +35,7 @@ untuk melihat seluruh data di spreadsheet gunakan perintah /view
   
 5. melihat rekapitulasi keuangan
 untuk melihat total pemasukan, pengeluaran, dan saving gunakan perintah /rekap
-![Script Properties](https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/5.rekap.jpeg_
+![Script Properties](https://github.com/permadi1053/Bot-Telegram-googel-script-/blob/main/Gambar/5.rekap.jpeg)
  
 ## 🚨 Note 🚨
 ## Demikian cara instalasi dan penggunaan Bot cataatan keuangan harian, semoga bermanfaat
